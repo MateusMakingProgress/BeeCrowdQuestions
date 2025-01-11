@@ -1,0 +1,14 @@
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\bin\Debug\net8.0\Bee1011.exe
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\bin\Debug\net8.0\Bee1011.deps.json
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\bin\Debug\net8.0\Bee1011.runtimeconfig.json
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\bin\Debug\net8.0\Bee1011.dll
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\bin\Debug\net8.0\Bee1011.pdb
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\obj\Debug\net8.0\Bee1011.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\obj\Debug\net8.0\Bee1011.AssemblyInfoInputs.cache
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\obj\Debug\net8.0\Bee1011.AssemblyInfo.cs
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\obj\Debug\net8.0\Bee1011.csproj.CoreCompileInputs.cache
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\obj\Debug\net8.0\Bee1011.dll
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\obj\Debug\net8.0\refint\Bee1011.dll
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\obj\Debug\net8.0\Bee1011.pdb
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\obj\Debug\net8.0\Bee1011.genruntimeconfig.cache
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1011\Bee1011\obj\Debug\net8.0\ref\Bee1011.dll

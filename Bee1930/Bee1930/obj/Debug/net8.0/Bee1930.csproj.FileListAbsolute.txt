@@ -1,0 +1,14 @@
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\bin\Debug\net8.0\Bee1930.exe
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\bin\Debug\net8.0\Bee1930.deps.json
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\bin\Debug\net8.0\Bee1930.runtimeconfig.json
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\bin\Debug\net8.0\Bee1930.dll
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\bin\Debug\net8.0\Bee1930.pdb
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\obj\Debug\net8.0\Bee1930.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\obj\Debug\net8.0\Bee1930.AssemblyInfoInputs.cache
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\obj\Debug\net8.0\Bee1930.AssemblyInfo.cs
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\obj\Debug\net8.0\Bee1930.csproj.CoreCompileInputs.cache
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\obj\Debug\net8.0\Bee1930.dll
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\obj\Debug\net8.0\refint\Bee1930.dll
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\obj\Debug\net8.0\Bee1930.pdb
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\obj\Debug\net8.0\Bee1930.genruntimeconfig.cache
+E:\projetosPraticaProgramacao\BeeCrowd\Bee1930\Bee1930\obj\Debug\net8.0\ref\Bee1930.dll

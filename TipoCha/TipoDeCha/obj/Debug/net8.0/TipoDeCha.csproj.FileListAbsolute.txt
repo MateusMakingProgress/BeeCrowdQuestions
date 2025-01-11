@@ -1,0 +1,14 @@
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\obj\Debug\net8.0\TipoDeCha.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\obj\Debug\net8.0\TipoDeCha.AssemblyInfoInputs.cache
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\obj\Debug\net8.0\TipoDeCha.AssemblyInfo.cs
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\obj\Debug\net8.0\TipoDeCha.csproj.CoreCompileInputs.cache
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\bin\Debug\net8.0\TipoDeCha.exe
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\bin\Debug\net8.0\TipoDeCha.deps.json
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\bin\Debug\net8.0\TipoDeCha.runtimeconfig.json
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\bin\Debug\net8.0\TipoDeCha.dll
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\bin\Debug\net8.0\TipoDeCha.pdb
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\obj\Debug\net8.0\TipoDeCha.dll
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\obj\Debug\net8.0\refint\TipoDeCha.dll
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\obj\Debug\net8.0\TipoDeCha.pdb
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\obj\Debug\net8.0\TipoDeCha.genruntimeconfig.cache
+E:\projetosPraticaProgramacao\BeeCrowd\TipoCha\TipoDeCha\obj\Debug\net8.0\ref\TipoDeCha.dll
